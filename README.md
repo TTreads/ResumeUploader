@@ -16,7 +16,7 @@ This project aims to simplify the process of submitting resumes through a contac
 - **Validation:** Implements form validation to ensure accurate and complete submissions.
 - **Notification:** Receive email notifications upon each resume submission.
 - **Database Integration:** Stores submitted resumes securely in a database for easy retrieval.
-- 
+
 ### Requirements
 - **Resend API KEY:** https://resend.com/login?redirectedFrom=%2Fapi-keys
 

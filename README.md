@@ -29,3 +29,7 @@ This project aims to simplify the process of submitting resumes through a contac
 2. **Startup local php server:**
    ```bash
    php -S localhost:9000
+   
+2. **Create .env file in includes dir :**
+   ```bash
+   RESEND_KEY=re_XXXXXXXXXXXXXXXXXXXXXXXXXX
